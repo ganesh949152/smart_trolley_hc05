@@ -2,7 +2,7 @@
 ## 🛒 **Smart Shopping Trolley**  
 
 ### **📌 Overview**  
-The **Smart Shopping Trolley** is an **autonomous shopping assistant** that follows the customer, scans products using **RFID**, and suggests items using AI. It enhances the shopping experience by reducing **checkout time**, **eliminating manual effort**, and **automating product tracking**.  
+The **Smart Shopping Trolley** is an **autonomous shopping assistant** that follows the customer, scans products using **RFID**, and suggests items using simple suggestion algorithm. It enhances the shopping experience by reducing **checkout time**, **eliminating manual effort**, and **automating product tracking**.  
 
 ---
 
@@ -28,9 +28,8 @@ The **Smart Shopping Trolley** is an **autonomous shopping assistant** that foll
 
 ## 🖥️ **Software Requirements**  
 - **Arduino IDE** (for programming the microcontroller).  
-- **MIT App Inventor / Android Studio** (for mobile app development).  
+- **Android Studio** (for mobile app development).  
 - **C++ (Arduino)** for embedded programming.  
-- **Python** (if AI product recommendation is used on a server).  
 
 ---
 
