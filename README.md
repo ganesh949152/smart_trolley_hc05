@@ -1,6 +1,3 @@
-Here's a **GitHub README** structured for your **Smart Shopping Trolley** project:  
-
----
 
 ## 🛒 **Smart Shopping Trolley**  
 
