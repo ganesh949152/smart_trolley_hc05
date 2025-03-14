@@ -101,10 +101,8 @@ The **Smart Shopping Trolley** is an **autonomous shopping assistant** that foll
 
 ## 📷 **Project Images & Demo**  
 
-🔹 **Image Suggestions:**  
-- 📸 **Hardware Setup:** Picture of Arduino, Motors, HC-05, and RFID module.  
-- 📱 **App Screenshot:** Showing Bluetooth connection and shopping cart.  
-- 🛒 **Working Demo:** GIF or short video of the trolley **following the user**.  
+- 📸 **Please go through the documentation**  
+
 
 ---
 
